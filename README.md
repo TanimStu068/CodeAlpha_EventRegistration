@@ -1,4 +1,3 @@
-# CodeAlpha_EventRegistration
 
 Event Registration System built with **Django** and **Django REST Framework**
 for the CodeAlpha Backend Development Internship (Task 2).
