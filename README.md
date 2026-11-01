@@ -14,7 +14,7 @@ for the CodeAlpha Backend Development Internship (Task 2).
 
 ## Project structure
 ```
-CodeAlpha_EventRegistration/
+EventRegistration/
 ├── manage.py
 ├── requirements.txt
 ├── config/              # settings, root urls, wsgi
